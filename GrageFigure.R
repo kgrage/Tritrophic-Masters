@@ -1,6 +1,6 @@
 ## Kathryn Grage
 ## January 30th
-## Tritrophic analysis figures and farting around with what exists
+## Tritrophic analysis figures and seeing what exists
 
 ## first figures. need to display the slopes of tritrophic level one and two but over what?
 ## years? window lengths?
